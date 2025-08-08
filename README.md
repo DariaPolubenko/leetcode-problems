@@ -17,6 +17,8 @@ Problems are grouped by difficulty level:
 
 
 ## 📁 Structure | Структура
+
+### Easy level (Легкий уровень)
 1. [Two Sum](https://github.com/DariaPolubenko/leetcode-problems/tree/main/src/main/java/leetcode/easy/two_sum)
 
 
