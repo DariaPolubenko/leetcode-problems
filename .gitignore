@@ -1,0 +1,50 @@
+### Gradle ###
+.gradle/
+build/
+!gradle/wrapper/gradle-wrapper.jar
+
+### Maven ###
+.mvn/
+target/
+
+### IntelliJ IDEA ###
+.idea/
+*.iml
+out/
+
+### Eclipse ###
+.classpath
+.project
+.settings/
+bin/
+
+### VS Code ###
+.vscode/
+
+### NetBeans ###
+nbbuild/
+nbproject/private/
+dist/
+nbdist/
+.nb-gradle/
+
+### Mac OS ###
+.DS_Store
+
+### Windows ###
+Thumbs.db
+desktop.ini
+
+### Logs and temp ###
+*.log
+*.tmp
+
+### Security ###
+*.env
+*.key
+*.crt
+
+### Java ###
+*.class
+*.jar
+*.war
