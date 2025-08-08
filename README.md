@@ -3,12 +3,14 @@
 Java solutions to coding problems from [LeetCode](https://leetcode.com/).  
 Решение задач с сайта [LeetCode](https://leetcode.com/).
 
-Problems are grouped by difficulty level (Уровни)
+Problems are grouped by difficulty level  
+(уровни задач)
 
 - 🟢 Easy (легкий)
 - 🟡 Medium (средний)
 - 🔴 Hard (сложный)
-
+  
+  
 ## 📁 Structure | Структура
 
 ### Easy level (Легкий уровень)
