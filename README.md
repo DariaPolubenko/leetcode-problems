@@ -15,7 +15,7 @@ Problems are grouped by difficulty level:
 - 🟡 Средний
 - 🔴 Сложный
 
----
+
 ## 📁 Structure | Структура
 
 
