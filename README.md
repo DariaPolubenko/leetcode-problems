@@ -7,7 +7,7 @@ Problems are grouped by difficulty level:
 - 🟡 Medium
 - 🔴 Hard
 
----
+
 Решение задач с сайта [LeetCode](https://leetcode.com/).
 Задачи сгруппированы по уровням:
 
