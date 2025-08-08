@@ -1,6 +1,6 @@
 # LeetCode problems
 
-Java solutions to coding problems from [LeetCode](https://leetcode.com/).
+Java solutions to coding problems from [LeetCode](https://leetcode.com/).  
 Решение задач с сайта [LeetCode](https://leetcode.com/).
 
 Problems are grouped by difficulty level (Уровни)
