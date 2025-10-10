@@ -17,9 +17,9 @@ For example:
 - **12** is written as **XII**, which is simply **X + II**.
 - **27** is written as **XXVII**, which is **XX + V + II**.
 
-  Roman numerals are usually written from **largest to smallest** from left to right.  
-  However, the numeral for four is not **IIII**. Instead, **IV** is used — the **I** comes before **V**, so we **subtract** 1 from 5.  
-  The same principle applies to the number nine, which is written as **IX**.
+Roman numerals are usually written from **largest to smallest** from left to right.  
+However, the numeral for four is not **IIII**. Instead, **IV** is used — the **I** comes before **V**, so we **subtract** 1 from 5.  
+The same principle applies to the number nine, which is written as **IX**.
 
 There are six instances where subtraction is used:
 
