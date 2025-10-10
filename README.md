@@ -15,5 +15,7 @@ Problems are grouped by difficulty level
 
 ### Easy level (Легкий уровень)
 1. [Two Sum](https://github.com/DariaPolubenko/leetcode-problems/tree/main/src/main/java/leetcode/easy/two_sum)
+2. [Palindrome Number](https://github.com/DariaPolubenko/leetcode-problems/tree/main/src/main/java/leetcode/easy/palindrome_number)
+3. [Roman to Integer](https://github.com/DariaPolubenko/leetcode-problems/tree/main/src/main/java/leetcode/easy/roman_to_integer)
 
 
