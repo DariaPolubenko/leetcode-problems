@@ -17,5 +17,6 @@ Problems are grouped by difficulty level
 1. [Two Sum](https://github.com/DariaPolubenko/leetcode-problems/tree/main/src/main/java/leetcode/easy/two_sum)
 2. [Palindrome Number](https://github.com/DariaPolubenko/leetcode-problems/tree/main/src/main/java/leetcode/easy/palindrome_number)
 3. [Roman to Integer](https://github.com/DariaPolubenko/leetcode-problems/tree/main/src/main/java/leetcode/easy/roman_to_integer)
+4. [Longest Common Prefix](https://github.com/DariaPolubenko/leetcode-problems/tree/main/src/main/java/leetcode/easy/longest_common_prefix)
 
 
